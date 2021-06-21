@@ -1,12 +1,8 @@
-FHDR: HDR Image Reconstruction from a SingleLDR Image using Feedback Network 
+HDR reconstruction using single image LDR
 ========================================
 
-
-
-
-This repository contains the code for the following paper's implementation.
-
-**FHDR: HDR Image Reconstruction from a SingleLDR Image using Feedback Network**<br>
+這次專題主要用了以下這篇paper:  
+**FHDR: HDR Image Reconstruction from a SingleLDR Image using Feedback Network**<br>([FHDR](https://arxiv.org/abs/1912.11463))
 Zeeshan Khan, Mukul Khanna, Shanmuganathan Raman<br>
 2019 IEEE Global Conference on Signal and Information Processing ([GlobalSIP](http://2019.ieeeglobalsip.org))
 
