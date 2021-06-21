@@ -4,7 +4,10 @@ HDR reconstruction using single image LDR
 這次專題主要用了以下這篇paper:  
 **FHDR: HDR Image Reconstruction from a SingleLDR Image using Feedback Network**<br>([FHDR](https://arxiv.org/abs/1912.11463))
 Zeeshan Khan, Mukul Khanna, Shanmuganathan Raman<br>
-2019 IEEE Global Conference on Signal and Information Processing ([GlobalSIP](http://2019.ieeeglobalsip.org))
+2019 IEEE Global Conference on Signal and Information Processing
+
+此次專題的結果:
+([Results](https://drive.google.com/drive/folders/11EiU4q3OWokiYXWimu-1csjfYRuYw7qk))  
 
 Table of contents:
 -----------
